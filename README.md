@@ -1,5 +1,4 @@
-<!--Banner-->
-![mhandz00 Banner Image](https://github.com/mhandz00/mhandz00/blob/main/banner.png)
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 
 <!--Night Owl image-->
 <div>
@@ -7,20 +6,18 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍʜᴀɴᴅ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Mohandz! 
+*Thank you for visiting my profile*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">You will find me with you in everything </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/mhandz00).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_mhandz00).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://mhandz00.github.io) for more details about me.
+- 💻 Cyber Security Enthusiast | Ethical Hacker | AI Student
+- 🔍 Passionate about penetration testing, encryption, and network security.
+- 🚀 Always exploring new hacking techniques and security vulnerabilities.
+- 🛠 Skilled in Python, Bash, C, and cybersecurity tools like Metasploit & Wireshark.
+- 🎯 My goal? To master the art of cybersecurity and push the limits of ethical hacking.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -37,6 +34,7 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
 <br />
+
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -78,37 +76,14 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhandz00&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
+
 ---
-
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+<h3 align="left">Connect with me:</h3>  
+<p align="left">
+<a href="https://www.instagram.com/foda_basem?igsh=MWpwY3Y4ZzEzYnBmbQ%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>  
+<a href="https://github.com/mhandz00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fady-basem-b96278340/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/mhandz00/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:mhandz00@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mhandz00@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/mhandz00" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=mhandz00 Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/mhandz00" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mhandz00 Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
 
 <!--Footer--> 
 <p align="center">
