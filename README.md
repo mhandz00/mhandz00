@@ -20,7 +20,7 @@
 
 <!-- Profile Count Badge -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mhandz00&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" />
 </p>
 
 ---
@@ -34,8 +34,8 @@
 <!-- Trophies Section -->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  <a href="https://github.com/mhandz00/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mhandz00&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
 
@@ -46,16 +46,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/mhandz00">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhandz00&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/mhandz00">
+          <img align="center" src="https://streak-stats.demolab.com?user=mhandz00&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -65,15 +65,15 @@
       <h3 align="center"><strong>Most Used Language</strong></h3>
       <p align="center">
         <a href="https://github.com/mhandz00">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fodenbasem&theme=bear" width="90%">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhandz00&theme=bear" width="90%">
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
+        <a href="https://github.com/mhandz00">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=mhandz00&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
         </a>
       </p>
     </td>
@@ -83,7 +83,7 @@
 <!-- Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhandz00&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false">
 </div>
 
 <!-- Footer -->
